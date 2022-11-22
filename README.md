@@ -16,7 +16,7 @@
  12. 배달 가능한 라이더가 없으면 배달 요청은 되지 않는다
  13. 배달 가능한 라이더가 없으면 주문은 되지 
 
-
+https://github.com/ycgee/example-food-delivery/issues/11#issue-1458975888
 
 
 
