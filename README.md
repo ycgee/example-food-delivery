@@ -1,4 +1,6 @@
-기능적 요구사항
+강사님, 2년전 MSA 설계에 참여 했었는데, 실습을 통하니 이해가 
+
+** 기능적 요구사항
 
  1.고객이 메뉴를 선택하여 주문한다.
  
@@ -65,3 +67,7 @@ https://github.com/ycgee/example-food-delivery/issues/2#issue-1458912481
 ** API Gateway
 
 https://github.com/ycgee/example-food-delivery/issues/1#issue-1458900851
+
+
+Git 사용이 수월하지 않아 작성이 성의 없게 보일지 모르나, 열심히 해보았습니다.
+감사합니다.
