@@ -27,3 +27,5 @@ https://github.com/ycgee/example-food-delivery/issues/8#issue-1458964663
 https://github.com/ycgee/example-food-delivery/issues/7#issue-1458963244
 
 https://github.com/ycgee/example-food-delivery/issues/6#issue-1458936633
+
+https://github.com/ycgee/example-food-delivery/issues/5#issue-1458934622
