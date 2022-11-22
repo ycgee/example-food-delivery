@@ -36,13 +36,17 @@ https://github.com/ycgee/example-food-delivery/issues/11#issue-1458975888
 
 https://github.com/ycgee/example-food-delivery/issues/10#issue-1458971837
 
-
+** Compensation / Correlation
 
 https://github.com/ycgee/example-food-delivery/issues/9#issue-1458969681
+
+** Sub/Pub
 
 https://github.com/ycgee/example-food-delivery/issues/8#issue-1458964663
 
 https://github.com/ycgee/example-food-delivery/issues/7#issue-1458963244
+
+
 
 https://github.com/ycgee/example-food-delivery/issues/6#issue-1458936633
 
