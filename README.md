@@ -52,9 +52,11 @@ https://github.com/ycgee/example-food-delivery/issues/6#issue-1458936633
 
 https://github.com/ycgee/example-food-delivery/issues/5#issue-1458934622
 
-
+** 서킷브레이크
 
 https://github.com/ycgee/example-food-delivery/issues/4#issue-1458925325
+
+** 
 
 https://github.com/ycgee/example-food-delivery/issues/3#issue-1458913635
 
