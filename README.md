@@ -56,10 +56,12 @@ https://github.com/ycgee/example-food-delivery/issues/5#issue-1458934622
 
 https://github.com/ycgee/example-food-delivery/issues/4#issue-1458925325
 
-** 
+** Req/Res
 
 https://github.com/ycgee/example-food-delivery/issues/3#issue-1458913635
 
 https://github.com/ycgee/example-food-delivery/issues/2#issue-1458912481
+
+** API Gateway
 
 https://github.com/ycgee/example-food-delivery/issues/1#issue-1458900851
