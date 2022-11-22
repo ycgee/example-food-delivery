@@ -28,11 +28,15 @@
  
  13. 배달 가능한 라이더가 없으면 주문은 되지 않는다
  
- 
+** 실습소스위치 
 
 https://github.com/ycgee/example-food-delivery/issues/11#issue-1458975888
 
+** SAGA 모델링(MSA 모델링)
+
 https://github.com/ycgee/example-food-delivery/issues/10#issue-1458971837
+
+
 
 https://github.com/ycgee/example-food-delivery/issues/9#issue-1458969681
 
